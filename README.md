@@ -16,7 +16,7 @@ This is a simple web application that allows users to search for and display ani
 
 ## How to Use
 1. Clone the repository or download the zip file.
-2. Register on the <a href="https://giphy.com/">GIPHY</a> website and create your API key.
+2. Register on the <a href="https://developers.giphy.com/">GIPHY</a> website and create your API key.
 3. Copy this API key and paste into <b>`apiKey`</b> variable into <b>`script.js`</b> file.
 4. Open the <b>`index.html`</b> file in your web browser.
 5. Enter a search query in the search bar and click the "Submit" button.
